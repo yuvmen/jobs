@@ -17,6 +17,8 @@
     "express": "^4.17.1",
     "get-port": "^5.1.1",
     "got": "^11.5.1",
+    "node-cache": "^5.1.2",
+    "semver": "^7.3.2",
     "source-map-support": "^0.5.19"
   },
   "devDependencies": {
